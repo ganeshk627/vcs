@@ -1,4 +1,4 @@
-# source-control-with-git
+# vcs-with-git
 
 
 # 01. What is Version Control?
